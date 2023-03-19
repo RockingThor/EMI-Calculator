@@ -11,7 +11,7 @@ const Navbar = () => {
                 <Container maxWidth="xl">
                     <Toolbar>
                         <Typography variant="h5" component="div" sx={{ flexGrow: 1 }}>
-                            Investment Calculator
+                            EMI Calculator
                         </Typography>
                     </Toolbar>
                 </Container>
